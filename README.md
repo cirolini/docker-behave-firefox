@@ -8,7 +8,7 @@ docker build -t behave .
 
 docker run behave
 
-## exemple
+## example
 
 ```
 not36788:docker-behave rafaelcirolini$ docker run behave
